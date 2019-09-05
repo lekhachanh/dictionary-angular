@@ -16,7 +16,7 @@ import { DictionaryPageComponent } from './dictionary-page/dictionary-page.compo
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
